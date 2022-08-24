@@ -10,8 +10,6 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie microsoft() {
-        System.out.println("Podaj mail użytkownika");
-        System.out.println("Podaj poprawne hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
+   public void przypomnij haslo() {
+        System.out.println("Przypomnij haslo");
     }
